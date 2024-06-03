@@ -1,5 +1,5 @@
 footer {
-    background-color: #00ff00;
+    background-color: #fff;
     height: 60px;
     width: 100%;
     display: flex;
@@ -8,4 +8,6 @@ footer {
     position: absolute;
     bottom: 0;
     left: 0;
-    z-index: 10;}
+    z-index: 10;
+    border-top: 1px solid #ccc;
+}

@@ -1,0 +1,9 @@
+header {
+    background-color: #fff;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCC;
+    background-image: url('../images/hbnb-logo.png');
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
